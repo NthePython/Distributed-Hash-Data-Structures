@@ -1,7 +1,7 @@
 # Distributed-Hash-Data-Structures
 Simple implementations of the DHT and DBF
 
-## CREDITS:
+## CREDITS
 
 https://github.com/savoirfairelinux/opendht
 
